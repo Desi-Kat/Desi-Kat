@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Desislava
 
 📍 Oxford, UK  
-📊 Data & Analytics | Programme Management | Data-Driven Transformation
+📊 Data & Analytics | Programme Management | Learning Design
 
 ---
 
