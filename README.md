@@ -66,9 +66,8 @@ I’m seeking a role where I can:
 - Apply **data analytics and automation** to improve processes
 - Build and optimise **reporting and insights** for decision-making
 - Combine **people leadership** with **hands-on data work**
-- Support organisations on their data maturity journey
 
 ---
 
 ## 📫 Let’s Connect
-Feel free to explore my repositories or reach out if you’d like to collaborate on data projects, analytics training, or process improvement initiatives.
+Feel free to explore my repositories or reach out if you’d like to collaborate on data or other programme development projects, analytics training, or process improvement initiatives.
