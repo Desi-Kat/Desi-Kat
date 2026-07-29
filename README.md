@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Desislava
 
 📍 Oxford, UK  
-📊 Data & Analytics | Programme Management | Learning Design
+Programme Management | Data & Analytics | Learning Design
 
 ---
 
 ## 👩‍💼 About Me
-I’m a data-focused professional with over 13 years of experience across FinTech, Automotive, and Further & Higher Education. I hold a Master’s degree in e-Business (High Merit) from **Oxford Brookes University**, where I also received the **MSc in e-Business Award**, alongside a Bachelor’s degree in International Business Management.
+I’m a project management professional with over 13 years of experience across FinTech, Automotive, and Further & Higher Education. I hold a Master’s degree in e-Business (High Merit) from **Oxford Brookes University**, where I also received the **MSc in e-Business Award**, alongside a Bachelor’s degree in International Business Management.
 
 My academic background sparked a long-standing passion for data, technology, and digital transformation, which continues to shape my career.
 
@@ -15,7 +15,14 @@ A quick personal insight: I’ve bungee jumped from a 52-metre bridge and climbe
 ---
 
 ## 💼 Professional Experience
-My most recent experience as a **Programme Manager** for an apprenticeship and training provider enabled me to:
+
+As a **Fellowships Officer** at the University of Oxford, I have been working on the development and launch of the new Nuffield Medical Fellowships scheme. This varied role involves:
+- Application portal procurement and management
+- Collaboration with advertisers, internal and external stakeholders (including HR, Finance, Procurement, Trust Board Members)
+- Website and social media posting design, and copywriting
+- Applicant support
+
+My experience as a **Programme Manager** for an apprenticeship and training provider enabled me to:
 - Lead **Data Analytics training programmes** for clients including **BMW** and the **NHS**
 - Manage and develop a team of trainers
 - Oversee delivery to ~800 learners across 110 cohorts
