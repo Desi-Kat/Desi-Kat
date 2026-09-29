@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Desislava
 
 📍 Oxford, UK  
-Programme Management | Data & Analytics | Learning Design
+Programme and Project Management | Data & Analytics | Learning Design
 
 ---
 
@@ -16,11 +16,12 @@ A quick personal insight: I’ve bungee jumped from a 52-metre bridge and climbe
 
 ## 💼 Professional Experience
 
-As a **Fellowships Officer** at the University of Oxford, I have been working on the development and launch of the new Nuffield Medical Fellowships scheme. This varied role involves:
+As a **Fellowships Officer** at the University of Oxford, I managed the development and launch of the new Nuffield Medical Fellowships scheme. This varied role involves:
 - Application portal procurement and management
 - Collaboration with advertisers, internal and external stakeholders (including HR, Finance, Procurement, Trust Board Members)
 - Website and social media posting design, and copywriting
-- Applicant support
+- Comprehensive candidate support
+- Supporting the wider Research Strategy and Funding Team in the Medical Sciences Divisional Office by conducting quantitative data analysis on application metrics, supporting division-wide Research Culture projects, collecting and reporting on outcomes of internal funding awards, and information gathering and communications for Divisional network communities.
 
 My experience as a **Programme Manager** for an apprenticeship and training provider enabled me to:
 - Lead **Data Analytics training programmes** for clients including **BMW** and the **NHS**
@@ -58,15 +59,6 @@ Seeing how limited data capability can hold organisations back—and how effecti
 - Translating complex data into clear, actionable insights
 - Stakeholder communication across technical and non-technical audiences
 - Combining people leadership with technical delivery
-
----
-
-## 🚀 What I’m Looking For
-I’m seeking a role where I can:
-- Apply **data analytics and automation** to improve processes
-- Build and optimise **reporting and insights** for decision-making
-- Combine **people leadership** with **hands-on data work**
-
 ---
 
 ## 📫 Let’s Connect
